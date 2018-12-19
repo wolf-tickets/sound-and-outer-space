@@ -1,5 +1,0 @@
-/home/alf/projects/code/sound-and-outer-space/plugin-template/Builds/CLion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/alf/projects/code/sound-and-outer-space/plugin-template/Builds/CLion/cmake-build-debug/CMakeFiles/VST.dir
-/home/alf/projects/code/sound-and-outer-space/plugin-template/Builds/CLion/cmake-build-debug/CMakeFiles/STANDALONE_PLUGIN.dir
-/home/alf/projects/code/sound-and-outer-space/plugin-template/Builds/CLion/cmake-build-debug/CMakeFiles/SHARED_CODE.dir
-/home/alf/projects/code/sound-and-outer-space/plugin-template/Builds/CLion/cmake-build-debug/CMakeFiles/edit_cache.dir
