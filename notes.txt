@@ -1,0 +1,15 @@
+VENUS: underwater? no bubbles/underwater sounds, but very thick/deadened. sound travels a long way. sounds might travel and echo similarly to earth, geological similarity.
+weather: volcanic activity, maybe take sounds recorded on earth? plugin should include a loop of volcano/thunderstorm sounds, knob to turn sample on/off. wind sounds, maybe similar to water? due to thickness of atmosphere
+lower frequencies. - low-pass filter/band-pass/parametric eq?
+lightning storms are higher up. volcano sound - no hissing sounds (no water)
+Sonar? what kind of information.
+Sulfuric acid clouds - affect sound?
+lava solidifying
+possible pitch changes
+
+MERCURY: no atmosphere, essentially. sound of mercury quakes underground - like putting your ear to the ground. rumbly filter, source audio almost gone.
+
+MARS: thinner atmosphere. 100 times thinner than earth. (Venus 100 times thicker).
+dust devils/sandstorms. it also snows on mars, more like flour. "zaps" as dust hits the ground.
+
+GENERALLY: combining DSP and sample playback. mock-up with existing effects, then combine into original plugin? Mars/Venus as prototypes. incorporate max into ableton?hub
